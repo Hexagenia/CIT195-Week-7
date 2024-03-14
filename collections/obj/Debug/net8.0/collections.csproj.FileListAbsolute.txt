@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 7\collections\bin\Debug\net8.0\collections.exe
+F:\NMC\Projects\Week 7\collections\bin\Debug\net8.0\collections.deps.json
+F:\NMC\Projects\Week 7\collections\bin\Debug\net8.0\collections.runtimeconfig.json
+F:\NMC\Projects\Week 7\collections\bin\Debug\net8.0\collections.dll
+F:\NMC\Projects\Week 7\collections\bin\Debug\net8.0\collections.pdb
+F:\NMC\Projects\Week 7\collections\obj\Debug\net8.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 7\collections\obj\Debug\net8.0\collections.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 7\collections\obj\Debug\net8.0\collections.AssemblyInfo.cs
+F:\NMC\Projects\Week 7\collections\obj\Debug\net8.0\collections.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 7\collections\obj\Debug\net8.0\collections.dll
+F:\NMC\Projects\Week 7\collections\obj\Debug\net8.0\refint\collections.dll
+F:\NMC\Projects\Week 7\collections\obj\Debug\net8.0\collections.pdb
+F:\NMC\Projects\Week 7\collections\obj\Debug\net8.0\collections.genruntimeconfig.cache
+F:\NMC\Projects\Week 7\collections\obj\Debug\net8.0\ref\collections.dll
