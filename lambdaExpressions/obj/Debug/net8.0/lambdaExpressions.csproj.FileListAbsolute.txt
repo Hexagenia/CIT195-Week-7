@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 7\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 7\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 7\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.AssemblyInfo.cs
+F:\NMC\Projects\Week 7\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 7\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.exe
+F:\NMC\Projects\Week 7\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.deps.json
+F:\NMC\Projects\Week 7\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.runtimeconfig.json
+F:\NMC\Projects\Week 7\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.dll
+F:\NMC\Projects\Week 7\lambdaExpressions\bin\Debug\net8.0\lambdaExpressions.pdb
+F:\NMC\Projects\Week 7\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.dll
+F:\NMC\Projects\Week 7\lambdaExpressions\obj\Debug\net8.0\refint\lambdaExpressions.dll
+F:\NMC\Projects\Week 7\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.pdb
+F:\NMC\Projects\Week 7\lambdaExpressions\obj\Debug\net8.0\lambdaExpressions.genruntimeconfig.cache
+F:\NMC\Projects\Week 7\lambdaExpressions\obj\Debug\net8.0\ref\lambdaExpressions.dll
